@@ -4,7 +4,7 @@
 
 ## A collection of the latest state-of-the-art MOT (Multiple Object Tracking) papers with code implementations.  
 
-### The table below contains top 50 most recent MOT papers submitted to one of the top 10 rated conferences below.
+### The table below contains 50 most recent MOT papers submitted to one of the top 10 rated conferences below.
 
 * [The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr.thecvf.com/)
 * [IEEE/CVF International Conference on Computer Vision (ICCV)](https://iccv2023.thecvf.com/)
