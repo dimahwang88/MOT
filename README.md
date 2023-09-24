@@ -4,7 +4,7 @@
 
 ## A collection of the latest state-of-the-art MOT (Multiple Object Tracking) papers with code implementations.  
 
-### The table below contains the list of MOT papers submitted to one of the top 10 raated conferences below:
+### The table below contains top 50 most recent MOT papers submitted to one of the top 10 rated conferences below.
 
 * [The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr.thecvf.com/)
 * [IEEE/CVF International Conference on Computer Vision (ICCV)](https://iccv2023.thecvf.com/)
@@ -46,3 +46,5 @@
 |<a target="_blank" href="http://arxiv.org/pdf/2207.05518v2">Tracking Objects as Pixel-wise Distributions</a>                                                                       |<a target="_blank" href="https://github.com/dvlab-research/eccv22-p3aformer-tracking-objects-as-pixel-wise-distributions">CODE</a>|2022-07-12|ECCV              |
 |<a target="_blank" href="http://arxiv.org/pdf/2210.16572v1">SearchTrack: Multiple Object Tracking with Object-Customized Search and Motion-Aware Features</a>                      |<a target="_blank" href="https://github.com/qa276390/searchtrack">CODE</a>                                                        |2022-10-29|BMVC              |
 |<a target="_blank" href="http://arxiv.org/pdf/2210.03355v1">Multiple Object Tracking from appearance by hierarchically clustering tracklets</a>                                    |<a target="_blank" href="https://github.com/nii-satoh-lab/mot_fcg">CODE</a>                                                       |2022-10-07|BMVC              |
+
+### The table below contains 50 most recent MOT papers from other conferences/journals.
