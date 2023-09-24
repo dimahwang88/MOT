@@ -1,5 +1,20 @@
 # MOT
-A collection of latest state-of-the-art MOT (Multiple Object Tracking) papers with code implementations.  
+
+
+## A collection of the latest state-of-the-art MOT (Multiple Object Tracking) papers with code implementations.  
+
+### The table below contains the list of MOT papers submitted to one of the top 10 raated conferences below:
+
+* [The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr.thecvf.com/)
+* [IEEE/CVF International Conference on Computer Vision (ICCV)](https://iccv2023.thecvf.com/)
+* [International Conference on Machine Learning (ICML)](https://icml.cc/)
+* [European Conference on Computer Vision (ECCV)](https://eccv2022.ecva.net/) 
+* [British Machine Vision Conference (BMVC)](https://bmvc2023.org/)
+* [IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)](https://www.computer.org/csdl/proceedings/cvprw/2022/1G55WEFExd6)
+* [IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)](https://wacv2024.thecvf.com/)
+* [IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)](https://www.computer.org/csdl/proceedings/1800041)
+* [IEEE International Conference on Image Processing (ICIP)](https://2023.ieeeicip.org/)
+* [Asian Conference on Computer Vision (ACCV)](https://www.accv2022.org/en/)
 
 |Title                                                                                                                                                                                           |Implementation                                                                                                                    |Published |Conference/Journal                                                                               |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------|
