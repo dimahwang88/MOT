@@ -2,7 +2,7 @@
 
 ![Screenshot](asset/MOT.png)
 
-## A collection of the latest state-of-the-art MOT (Multiple Object Tracking) papers with code implementations.  
+## A collection of the latest state-of-the-art MOT (Multiple Object Tracking) papers with code implementations. Last update 24.09.2023.
 
 ### The table below contains 50 most recent MOT papers submitted to one of the top 10 rated conferences below.
 
